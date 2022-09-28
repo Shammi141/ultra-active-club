@@ -6,3 +6,18 @@
     align-items: center;
     gap: 15px;
 }
+.profile-icon{
+    font-size: 35px;
+    color: rgb(232, 229, 229);
+    background-color: #5b5b5f;
+    border-radius: 50%;
+    padding: 5px;
+    padding-left: 11px;
+    padding-right: 11px;
+
+}
+.developer-info{
+    justify-content: space-between;
+    margin-right: 54px;
+    margin-bottom: 20px;
+}
