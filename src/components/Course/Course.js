@@ -5,7 +5,7 @@ const Course = ({course, handleAddToCart}) => {
     const {picture, time, age, title, about} = course;
     
     return (
-        <div className='course text-start ms-2'>
+        <div className='course text-start ms-2 mb-4'>
             <img src= {picture} alt="" />
             <div className='mx-2'>
                 <p className='course-name mb-2'>{title}</p>
