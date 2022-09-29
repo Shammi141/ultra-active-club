@@ -4,7 +4,7 @@ import Course from '../Course/Course';
 import './Courses.css'
 
 const Courses = () => {
-        // for loading data 
+    // for loading data 
     const [courses, setCourses] = useState([]);
     const [cart, setCart] = useState([]);
 
@@ -15,8 +15,7 @@ const Courses = () => {
     }, []);
 
 
-    const handleAddToCart = (course) => {
-        // console.log(course)  
+    const handleAddToCart = (course) => { 
         const newCart = [...cart, course];
         setCart(newCart);
     }
@@ -32,7 +31,7 @@ const Courses = () => {
                         ></Course>)
                 }
             </div>
-            <div className="cart-container cart-position">
+            <div className="cart-container">
                 
                 <Cart cart = {cart}></Cart>
             </div>

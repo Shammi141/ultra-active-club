@@ -1,6 +1,6 @@
 .course{
     width: 300px;
-    height: 550px;
+    height: 500px;
     border: 2px solid #b9b6b6;
     border-radius: 6px;
     padding: 5px;
@@ -8,10 +8,10 @@
 }
 .course img{
     width: 280px;
-    height: 310px;
+    height: 260px;
     border-radius: 7px;
 }
 .course-name{
     font-size: 22px;
-    font-weight: 600;
+    font-weight: 700;
 }

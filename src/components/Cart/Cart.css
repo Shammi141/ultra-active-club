@@ -1,16 +1,17 @@
-.add-a-break {
-    background-color: rgb(226, 223, 223);
-    height: 65px;
+.add-a-break{
+    margin: 5px;
+}
+.hover-effect:hover{
+    background-color: #b6c5da;
+}
+.time-field {
+    background-color: #efe8e8;
+    height: 55px;
     border-radius: 5px;
     margin: 12px;
-    padding-top: 20px;
+    padding-top: 10px;
 }
-.add-a-break button {
+.time-field button {
     margin-right: 5px;
     border-radius: 12px;
-}
-.add-a-break button:hover {
-    background-color: #c2bfbf;
-}
-.btn-color{
 }
