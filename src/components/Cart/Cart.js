@@ -2,7 +2,6 @@ import './Cart.css'
 //for toast
 import { ToastContainer, toast } from 'react-toastify';
 import { useEffect, useState } from 'react';
-import { addFakeDataToLocalStorage } from '../../utilities/fakeDb';
 
 const Cart = ({cart}) => {
     //for adding exercise time
@@ -17,11 +16,13 @@ const Cart = ({cart}) => {
     useEffect(() => {
         let storedData = localStorage.getItem('break-time');
         storedData = JSON.parse(storedData);
-        setBreakTime(storedData);
+        if(storedData !== null){
+            setBreakTime(storedData);
+        }
     }, []);
 
     const handleBreakTime = (time) => {
-        addFakeDataToLocalStorage(time);
+        localStorage.setItem('break-time', JSON.stringify(time));
     }
 
     //for showing toast message
