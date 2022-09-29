@@ -20,7 +20,7 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-            <h5 className='mb-5'>Click to Grab Your Courses</h5>
+            <h5 className='mb-5 fw-bold'>Study Like A Pro-Learner</h5>
         </div>
     );
 };

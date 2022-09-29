@@ -1,50 +1,50 @@
 [
     {
         "id": "63348a4f00f14fded2dc1848",
-        "picture": "https://3.imimg.com/data3/IV/TY/MY-9199255/computer-science-book-250x250.jpg",
+        "picture": "https://image.shutterstock.com/image-vector/physics-open-book-doodles-lettering-260nw-1269017023.jpg",
         "age" : "20-25",
         "time": 12,
-        "title": "C++ Master",
-        "about": "Eu duis elit tempor labore veniam exercitation voluptate magna irure nulla commodo qui. \r\n"
+        "title": "PHYSICS",
+        "about": "Physics is the natural science that studies matter, its fundamental constituents, its motion and behavior.\r\n"
     },
     {
         "id": "63348a4fa83a8a76a75f2a9b",
-        "picture": "https://www.ikbooks.com/uploads/BookImages/ikbooks-size120/9789386768384.jpg",
+        "picture": "https://cdn5.vectorstock.com/i/1000x1000/18/19/resting-icon-design-vector-7711819.jpg",
        "age": "20-25",
         "time": 15,
-        "title": "Data Structure",
-        "about": "Pariatur nisi Lorem voluptate Lorem amet deserunt. In commodo est eiusmod fugia. \r\n"
+        "title": "REST TIME",
+        "about": "Rest and relaxation will help improve stress levels, concentration, memory helps become fit.\r\n"
     },
     {
         "id": "63348a4fe324b2edac74c8db",
-        "picture": "https://fivebooks.com/app/uploads/2018/04/032157351X.01.LZ_-217x300.jpg",
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/71R58lgksxL.jpg",
         "age": "20-25",
         "time": 12,
-        "title": "Algorithm",
-        "about": "Ad aliquip commodo pariatur occaecat et elit sit ullamco adipisicing ad mollit esse \r\n"
+        "title": "CHEMISTRY",
+        "about": "Chemistry is the scientific study of the properties and behavior of matter. It's in everywhere.\r\n"
     },
     {
         "id": "63348a4fad6dbe78547f15fd",
-        "picture": "https://static.kopykitab.com/image/cache/data/faculty-notes/504098-300x380.jpg",
+        "picture": "https://thumbs.dreamstime.com/b/human-meditate-mind-mental-health-yoga-chakra-spiritual-healing-abstract-energy-meditation-connect-universe-power-watercolor-201432849.jpg",
         "age": "20-25",
         "time": 14,
-        "title": "Software & Compiler",
-        "about": "Sunt ullamco et est enim. Non aliqua sit velit eiusmod reprehenderit irure laboris \r\n"
-    },
-    {
-        "id": "63348a4f5478077e06457ac1",
-        "picture": "https://courses.cs.washington.edu/courses/cse557/03wi/info/images/hearnbaker_big.jpg",
-        "age": "20-25",
-        "time": 15,
-        "title": "Computer Graphic",
-        "about": "Ea aliquip aliquip culpa ex quis magna non qui sunt. Eiusmod eu cupidatat ex quis magna \r\n"
+        "title": "MEDITATE YOURSELF",
+        "about": " Increase Happiness, Well-Being and Health! Effective Meditation. Find Inner Peace. Reduce Stress Levels.\r\n"
     },
     {
         "id": "63348a4f5478077e06457ac2",
-        "picture": "https://m.media-amazon.com/images/I/51f5Bsxh3PL.jpg",
+        "picture": "https://media.istockphoto.com/vectors/mathematics-vector-id1044168372?k=20&m=1044168372&s=612x612&w=0&h=H1O1Q0kaszNSHW620rqy42V52I5K4kSduPXI6O16-vA=",
         "age": "20-25",
         "time": 19,
-        "title": "C#",
-        "about": "Ea aliquip aliquip culpa ex quis magna non qui sunt. Eiusmod eu aliquip cupidatat\r\n"
+        "title": "MATHEMATICS",
+        "about": "Mathematicians seek out patterns, formulate new conjectures, and establish truth by rigorous deduction.\r\n"
+    },
+    {
+        "id": "63348a4f5478077e06457ac1",
+        "picture": "https://image.shutterstock.com/image-photo/cute-little-kid-girl-eating-260nw-1337449847.jpg",
+        "age": "20-25",
+        "time": 15,
+        "title": "EATING TIME",
+        "about": "Healthy eating has many benefits, such as reducing the risk of heart disease, stroke, obesity.\r\n"
     }
 ]

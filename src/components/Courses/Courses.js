@@ -14,12 +14,10 @@ const Courses = () => {
             .then(data => setCourses(data))
     }, []);
 
-
     const handleAddToCart = (course) => { 
         const newCart = [...cart, course];
         setCart(newCart);
     }
-
     return (
         <div className='courses-container'>
             <div className="course-container">
@@ -32,7 +30,6 @@ const Courses = () => {
                 }
             </div>
             <div className="cart-container">
-                
                 <Cart cart = {cart}></Cart>
             </div>
         </div>
