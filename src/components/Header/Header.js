@@ -7,10 +7,10 @@ import './Header.css'
 const Header = () => {
     return (
         <div className='text-start ms-2'>
-            <div className='d-flex developer-info'>
+            <div className='d-flex developer-info mb-0'>
                 <div className='d-flex header-style text-center'>
                     <FontAwesomeIcon className='icon-style' icon={faSchool}></FontAwesomeIcon>
-                    <h2 className='text-primary my-3'>For First Learner - FFL</h2>
+                    <h2 className='text-primary my-3'>For Fast Learner - FFL</h2>
                 </div>
                 <div className='d-flex header-style'>
                     <FontAwesomeIcon className='profile-icon' icon={faPerson}></FontAwesomeIcon>

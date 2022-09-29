@@ -3,7 +3,7 @@
         "id": "63348a4f00f14fded2dc1848",
         "picture": "https://3.imimg.com/data3/IV/TY/MY-9199255/computer-science-book-250x250.jpg",
         "age" : "20-25",
-        "time": "12 hours",
+        "time": 12,
         "title": "C++ Master",
         "about": "Eu duis elit tempor labore veniam exercitation voluptate magna irure nulla commodo qui. \r\n"
     },
@@ -11,7 +11,7 @@
         "id": "63348a4fa83a8a76a75f2a9b",
         "picture": "https://www.ikbooks.com/uploads/BookImages/ikbooks-size120/9789386768384.jpg",
        "age": "20-25",
-        "time": "15 hours",
+        "time": 15,
         "title": "Data Structure",
         "about": "Pariatur nisi Lorem voluptate Lorem amet deserunt. In commodo est eiusmod fugia. \r\n"
     },
@@ -19,7 +19,7 @@
         "id": "63348a4fe324b2edac74c8db",
         "picture": "https://fivebooks.com/app/uploads/2018/04/032157351X.01.LZ_-217x300.jpg",
         "age": "20-25",
-        "time": "12 hours",
+        "time": 12,
         "title": "Algorithm",
         "about": "Ad aliquip commodo pariatur occaecat et elit sit ullamco adipisicing ad mollit esse \r\n"
     },
@@ -27,7 +27,7 @@
         "id": "63348a4fad6dbe78547f15fd",
         "picture": "https://static.kopykitab.com/image/cache/data/faculty-notes/504098-300x380.jpg",
         "age": "20-25",
-        "time": "14 hours",
+        "time": 14,
         "title": "Software & Compiler",
         "about": "Sunt ullamco et est enim. Non aliqua sit velit eiusmod reprehenderit irure laboris \r\n"
     },
@@ -35,7 +35,7 @@
         "id": "63348a4f5478077e06457ac1",
         "picture": "https://courses.cs.washington.edu/courses/cse557/03wi/info/images/hearnbaker_big.jpg",
         "age": "20-25",
-        "time": "15 hours",
+        "time": 15,
         "title": "Computer Graphic",
         "about": "Ea aliquip aliquip culpa ex quis magna non qui sunt. Eiusmod eu cupidatat ex quis magna \r\n"
     },
@@ -43,7 +43,7 @@
         "id": "63348a4f5478077e06457ac2",
         "picture": "https://m.media-amazon.com/images/I/51f5Bsxh3PL.jpg",
         "age": "20-25",
-        "time": "19 hours",
+        "time": 19,
         "title": "C#",
         "about": "Ea aliquip aliquip culpa ex quis magna non qui sunt. Eiusmod eu aliquip cupidatat\r\n"
     }

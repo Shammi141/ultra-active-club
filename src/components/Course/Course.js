@@ -11,7 +11,7 @@ const Course = ({course, handleAddToCart}) => {
                 <p className='course-name mb-2'>{title}</p>
                 <p>{about}</p>
                 <p className='mb-0'>For Age: {age}</p>
-                <p className='mb-1'>Time Required: {time}</p>
+                <p className='mb-1'>Time Required: {time} Hours</p>
             </div>
             <button onClick={() => handleAddToCart(course)} className='btn btn-primary ms-2 btn-cart'>Add To List</button>
         </div>

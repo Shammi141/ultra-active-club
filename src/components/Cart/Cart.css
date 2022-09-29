@@ -1,0 +1,16 @@
+.add-a-break {
+    background-color: rgb(226, 223, 223);
+    height: 65px;
+    border-radius: 5px;
+    margin: 12px;
+    padding-top: 20px;
+}
+.add-a-break button {
+    margin-right: 5px;
+    border-radius: 12px;
+}
+.add-a-break button:hover {
+    background-color: #c2bfbf;
+}
+.btn-color{
+}
